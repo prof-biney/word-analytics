@@ -2,7 +2,9 @@ export default function Footer() {
   return (
     <footer className="footer">
       <small>&copy; Copyright by BlackGold. All rights reserved.</small>
-      <small>Last checked limits: 5days ago</small>
+      <small>
+        Version <b>1.0</b>
+      </small>
     </footer>
   );
 }
