@@ -43,7 +43,7 @@ Make sure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/word-analytics.git
+   git clone https://github.com/prof-biney/word-analytics.git
    cd word-analytics
    ```
 
@@ -194,7 +194,7 @@ This creates an optimized build in the `dist` folder.
 1. Install gh-pages: `npm install --save-dev gh-pages`
 2. Add to package.json:
    ```json
-   "homepage": "https://yourusername.github.io/word-analytics",
+   "homepage": "https://prof-biney.github.io/word-analytics",
    "scripts": {
      "predeploy": "npm run build",
      "deploy": "gh-pages -d dist"
@@ -264,12 +264,12 @@ This project is open source and available under the [MIT License](LICENSE).
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/yourusername/word-analytics/issues) page
+1. Check the [Issues](https://github.com/prof-biney/word-analytics/issues) page
 2. Create a new issue if your problem isn't already reported
 3. Include as much detail as possible (browser, OS, steps to reproduce)
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Andrew Biney**
 
 *WordAnalytics - Optimize your words, maximize your impact!*
